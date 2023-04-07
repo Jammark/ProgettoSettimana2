@@ -1,0 +1,202 @@
+.center{
+    display: block;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container{
+    display: block;
+    width: 100vw;
+    padding-bottom: 20px;
+    
+}
+
+.containerB{
+    display: block;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#hlogo{
+    background-color: black;
+    
+}
+
+.title{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    letter-spacing: 1.5;
+}
+
+#title{
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+
+.secondText{
+    font-size: 0.8rem;
+    letter-spacing: 1.65;
+    font-family: 'Open Sans', sans-serif;
+    color: #393d41;
+}
+
+.secondTextB{
+    font-size: 0.8rem;
+    letter-spacing: 1.65;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+#hSecond{
+    background-image: url('../img/banner.jpg');
+    background-size: cover;
+    
+}
+
+#hButton{
+    display: block;
+    background-color: #f04c2f;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.headerlevel{
+    display: block;
+    margin: 0 auto;
+   
+}
+
+#bodylevel{
+    margin: 0 0;
+}
+
+#corner{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+#cardMiddle{
+    background-color: #e22d0e;
+}
+
+#footerCard{
+    background-color: #25a2c3;
+}
+
+#middle{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.white{
+    color: white;
+}
+
+a{
+    line-height: 1.2em;
+    text-decoration: underline;
+}
+
+#line{
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2px;
+    max-height: 3px;
+    width: 200px;
+    background-color: white;
+}
+
+.card{
+    display: block;
+    width: 100%;
+    border-style: solid;
+    border-color: #dee1e3;
+    border-width: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0 0;
+}
+
+.cardCenter{
+    margin: 0 0;
+}
+
+.cardImg{
+    width: 100%;
+    max-width: 100%;
+    margin-top: 0;
+    padding: 0;
+}
+
+#phone::before{
+    content: "\f098";
+    color: white;
+}
+
+#h1Container{
+    background-color: #222f3f;
+}
+
+nav, #containerF{
+    background-color: #354758;
+}
+
+nav li{
+    display: inline;
+    color: white;
+    padding: 5 15;
+    margin-left: 20px;
+}
+
+nav ul{
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#mainLevel{
+    margin: 10px 20px;
+}
+
+#m1Container{
+    background-color: #f56500;
+}
+
+#m2Container{
+    margin-top: 15px;
+   background-image: url(../img/bg-image.png);
+   background-size: contain;
+   background-repeat: repeat;
+}
+
+#m3Container{
+    padding: 10px 10px;
+}
+
+span {
+    color: #3a707d;
+}
+
+.img{
+    display: inline-block;
+    border-radius: 15px;
+    margin: 15px 15px;
+    box-shadow: 9px 7px 15px 0px rgba(34, 60, 80, 0.5);
+}
+
+.img1{
+    width: 100%;
+}
